@@ -1,0 +1,65 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    display: flex;
+    flex-direction: column;
+    background: #F5F5F5;
+    justify-content: center;
+    align-items: center
+}
+
+.container {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    height: 534px;
+    width: 375px;
+
+}
+
+.img-container {
+    display: flex;
+    flex-direction: row;
+    padding:0;
+    padding-left: 8px;
+    margin-top: 5px;
+}
+
+.img-profile {
+  
+    width: 34px;
+    height: 34px;
+    border-radius: 17px;
+    margin-right: 10px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0 0px;
+}
+
+.city {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 5px 0;
+}
+
+.post-img {
+    width: 375px;
+    height: 375px;
+    margin-top: 10px;
+}
+
+.iconsContainer img {
+    width: 22.3px;
+    height: 21.18px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.bold-txt {
+    font-weight: 700;
+    font-size: 13px;
+    padding-left: 10px;
+}
